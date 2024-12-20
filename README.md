@@ -42,7 +42,7 @@
   {
     "id": 9,
     "banglish": "dhonnobad dekha hobe",
-    "bangla": "ধন্যবাদ dekha হবে"
+    "bangla": "ধন্যবাদ দেখা হবে"
   },
   {
     "id": 10,
